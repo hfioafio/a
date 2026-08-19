@@ -1,0 +1,22 @@
+# Local business data
+*.csv
+*.xlsx
+*.xls
+*.geojson
+*.jsonl
+local-data/
+data-private/
+
+# Local configuration and secrets
+.env
+.env.*
+*.local
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
